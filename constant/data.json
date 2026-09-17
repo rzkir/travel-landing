@@ -1,0 +1,153 @@
+{
+  "brand": "Advenza",
+  "nav": [
+    { "label": "About Us", "href": "#about" },
+    { "label": "Our Journey", "href": "#journey" },
+    { "label": "Destinations", "href": "#destinations" }
+  ],
+  "cta": {
+    "label": "Let's Explore",
+    "href": "#explore"
+  },
+  "images": {
+    "hero": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=2400",
+    "inlineA": "https://images.pexels.com/photos/1287145/pexels-photo-1287145.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "inlineB": "https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "journeyBg": "https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto=compress&cs=tinysrgb&w=2000",
+    "peak": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "ridge": "https://images.pexels.com/photos/1670187/pexels-photo-1670187.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "valley": "https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "sunrise": "https://images.pexels.com/photos/2437291/pexels-photo-2437291.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "storyPeak": "https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "newsletter": "https://images.pexels.com/photos/2356045/pexels-photo-2356045.jpeg?auto=compress&cs=tinysrgb&w=2400",
+    "contactBg": "https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&w=2400"
+  },
+  "hero": {
+    "titleLine1": "Embrace the Wild",
+    "titleLine2Before": "",
+    "titleItalic": "Essence",
+    "titleLine2After": " of Indonesia.",
+    "subtitle": "Uncover breathtaking destinations, craft your ideal journey, and experience the magic of Indonesia through curated travel experiences all in one place.",
+    "cta": "Explore Places",
+    "ctaHref": "#destinations",
+    "imageAlt": "Snow-capped Indonesian mountain range at dawn"
+  },
+  "manifesto": {
+    "beforeInlineA": "We're all about inspiring people to explore the world",
+    "betweenInlines": "through a holistic approach to travel, developing both travel hard & travel",
+    "afterInlineB": "soft skills."
+  },
+  "destinations": [
+    {
+      "name": "Bali",
+      "tagline": "Peaceful beaches and vibrant culture.",
+      "image": "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Mount Bromo",
+      "tagline": "Golden sands and calm horizons.",
+      "image": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Raja Ampat",
+      "tagline": "Serene shores and rich culture.",
+      "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    }
+  ],
+  "journey": {
+    "eyebrow": "About Our",
+    "title": "Journey",
+    "label": "Meaningful Travel",
+    "description": "We craft travel experiences that celebrate each destination's character, flavors, and landscapes—inviting you into a journey that feels rich, warm, and deeply personal.",
+    "gallery": [
+      {
+        "src": "https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?auto=compress&cs=tinysrgb&w=900",
+        "alt": "Mountain valley at golden hour"
+      },
+      {
+        "src": "https://images.pexels.com/photos/1670187/pexels-photo-1670187.jpeg?auto=compress&cs=tinysrgb&w=900",
+        "alt": "Alpine ridge under soft light"
+      },
+      {
+        "src": "https://images.pexels.com/photos/2437291/pexels-photo-2437291.jpeg?auto=compress&cs=tinysrgb&w=900",
+        "alt": "Sunrise over volcanic peaks"
+      },
+      {
+        "src": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=900",
+        "alt": "Snow peak catching first light"
+      }
+    ]
+  },
+  "exploration": {
+    "title": "True Exploration",
+    "description": "Through curated experiences and thoughtful storytelling, we blend clarity, emotion, and simplicity—creating journeys that feel intuitive, natural, and unforgettable.",
+    "cta": "Explore the Story",
+    "ctaHref": "#stories",
+    "imageAlt": "Sunlit mountain peak against clear sky"
+  },
+  "stories": {
+    "titleParts": [
+      { "text": "Inspiring", "style": "italic" },
+      { "text": " Stories From Our ", "style": "serif" },
+      { "text": "Visitors!", "style": "italic" }
+    ],
+    "subtitle": "Real stories from travelers capturing the beauty, joy, and inspiration in every destination we explore together.",
+    "photos": [
+      "https://images.pexels.com/photos/1687845/pexels-photo-1687845.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1576937/pexels-photo-1576937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2403209/pexels-photo-2403209.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1496373/pexels-photo-1496373.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1670187/pexels-photo-1670187.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "testimonial": {
+      "quote": "Unforgettable experience from start to finish. Every detail was thoughtfully planned, making our trip feel effortless & truly special. All guides are knowledgeable, friendly, & passionate.",
+      "author": "— Daniel K., Adventure Seeker",
+      "sideImages": [
+        "https://images.pexels.com/photos/1687845/pexels-photo-1687845.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1576937/pexels-photo-1576937.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    }
+  },
+  "midline": {
+    "before": "You deserve an",
+    "emphasis": "exceptional journey",
+    "after": ", we craft it for you"
+  },
+  "newsletter": {
+    "titleBefore": "Let's",
+    "titleItalic1": "Explore",
+    "titleMiddle": "the World",
+    "titleItalic2": "Together",
+    "description": "Uncover breathtaking destinations, craft your ideal journey, and experience the magic of Indonesia through curated travel experiences all in one place.",
+    "placeholder": "Get Travel Updates",
+    "imageAlt": "Atmospheric mountain landscape"
+  },
+  "contact": {
+    "imageAlt": "Golden light on a rugged mountain peak"
+  },
+  "offices": [
+    {
+      "city": "Bangkok, Thailand",
+      "phone": "+66 2 123 4567",
+      "address": "123 Sukhumvit Road, Khlong Toei Road,\nBangkok 10110"
+    },
+    {
+      "city": "Chiang Mai, Thailand",
+      "phone": "+66 53 765 4321",
+      "address": "45 Nimmanahaeminda, Suthep,\nChiang Mai 50200, Thailand"
+    },
+    {
+      "city": "Phuket, Thailand",
+      "phone": "+66 76 987 6543",
+      "address": "789 Patong Beach, Patong,\nPhuket Thailand 83150"
+    }
+  ],
+  "footer": {
+    "links": [
+      { "label": "About", "href": "#about" },
+      { "label": "Destinations", "href": "#destinations" },
+      { "label": "Stories", "href": "#stories" }
+    ]
+  }
+}
